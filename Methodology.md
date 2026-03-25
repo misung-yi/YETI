@@ -15,7 +15,7 @@ Each axis was constructed using a subset of behavior variables corresponding to 
 ### Principal Component Analysis (PCA)
 For each personality axis, Principal Component Analysis (PCA) was conducted using the training dataset only:
 - Input variables were standardized prior to PCA
-- Principal components were retained until the cumulative explained variance approached **70%**.
+- Principal components were retained to achieve a cumulative explained variance of approximately **70%**.
 
 ### Composite Score Derivation
 For each axis, a composite score was calculated as a weighted sum of the retained principal components:
