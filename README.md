@@ -1,9 +1,9 @@
 # YETI: Pet MBTI based on PCA
 
-YETI is a statistical framework for classifying pet dog personalities using an MBTI-inspired structure based on C-BARQ behavioral data.
+YETI(Yeongseo–Eunbin Type Indicator) is a statistical framework for classifying pet dog personalities using an MBTI(Myers–Briggs Type Indicator)-inspired structure based on C-BARQ(Canine Behavioral Assessment & Research Questionnaire) behavioral data.
 
 ## Overview
-This project constructs four dichotomous personality axes (Extraversion, Behavior, Stability, Intelligence) and derives scoring functions using Principal Component Analysis (PCA).
+This project constructs four dichotomous personality axes (Extraversion, Behavior, Stability, Intelligence) and derives scoring functions using PCA(Principal Component Analysis).
 
 ## Documentation
 - [Methodology](Methodology.md)
