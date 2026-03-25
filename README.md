@@ -1,3 +1,13 @@
+# YETI: Pet MBTI based on PCA
+
+YETI is a statistical framework for classifying pet dog personalities using an MBTI-inspired structure based on C-BARQ behavioral data.
+
+## Overview
+This project constructs four dichotomous personality axes (Extraversion, Behavior, Stability, Intelligence) and derives scoring functions using Principal Component Analysis (PCA).
+
+## Documentation
+- [Methodology](Methodology.md)
+
 ## Data and Reproducibility
 
 To reproduce the YETI scoring formula exactly as implemented in this study, the same data and preprocessing conditions must be applied. Specifically, the dataset used in this study consists of records collected between March 7, 2008, and May 30, 2025. The data were randomly split into training and test sets using a 70/30 ratio, with a fixed random seed of `set.seed(20251216)` to ensure reproducibility.
