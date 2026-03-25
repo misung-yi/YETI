@@ -10,7 +10,7 @@ Behavioral variables were derived from the C-BARQ (Canine Behavioral Assessment 
 Each axis was constructed using a subset of behavior variables corresponding to its conceptual domain.
 
 ### Principal Component Analysis (PCA)
-For each personality axis, Principal Component Analysis (PCA) was conducted using the training dataset only:
+For each personality axis, PCA was conducted using the training dataset only:
 - Input variables were standardized prior to PCA
 - Principal components were retained to achieve a cumulative explained variance of approximately **70%**
 
